@@ -21,7 +21,7 @@ global.botname = 'Amin Bot'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6288227248988'
-global.footer = 'A S R O R I  A M I N'
+global.footer ='instagram.com/saya_asroriamin'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Asrori Amin' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Asrori Amin'
@@ -42,7 +42,7 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
-    success: 'Jangan lupa follow ig owner🕺',
+    success: 'Jangan lupa follow ig owner instagram.com/saya_asroriamin',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
