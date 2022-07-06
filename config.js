@@ -10,21 +10,21 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288227248988']
-global.pengguna = 'Asrori Amin'
+global.owner = ['6282136432456']
+global.pengguna = 'Putra'
 global.premium = []
-global.author = 'Asrori Amin'
-global.pemilik = ['6288227248988'] 
-global.ownernomer = '6288227248988'
-global.ownername = 'Asrori Amin'
-global.botname = 'Amin Bot'
-global.ownertag = ['6288227248988']
+global.author = 'Putra'
+global.pemilik = ['6282136432456'] 
+global.ownernomer = '6282136432456'
+global.ownername = 'Putra'
+global.botname = 'Putra Bot'
+global.ownertag = ['6282136432456']
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6288227248988'
+global.meki = '6282136432456'
 global.footer = 'instagram.com/saya_asroriamin'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Asrori Amin' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Putra' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'instagram.com/saya_asroriamin'
 global.footer2 = 'instagram.com/saya_asroriamin.'
 global.yt = 'https://youtube.com/channel/UCaybv50unIvy2sNCfqigusw' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
@@ -37,7 +37,7 @@ global.email = 'epepeepepe317@gmail.com'
 global.region = 'Indonesia'
 global.link = 'instagram.com/saya_asroriamin'
 global.sc = 'https://instagram.com/saya_asroriamin'
-global.packname = 'Asrori Amin' 
+global.packname = 'Putra' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
