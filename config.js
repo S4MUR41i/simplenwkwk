@@ -43,7 +43,7 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
-    success: 'Jangan lupa follow ig owner instagram.com/saya_asroriamin',
+    success: 'Jangan lupa follow ig owner https://www.instagram.com/hii.putragans/',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
